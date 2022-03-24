@@ -1,0 +1,16 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-around;
+
+  width: auto;
+  background-color: #f5f5f5;
+  height: 50%;
+}
+
+.app-logo {
+  width: 35%;
+}
+
+.button {
+  padding: 1rem;
+}
